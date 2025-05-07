@@ -78,6 +78,4 @@ Contact me [here](mailto:swarnimjain004@gmail.com) for the acquisition offer.
 
 ## License
 
-Copyright (c) Microsoft Corporation. All rights reserved.
-
 Licensed under the [MIT](LICENSE.txt) license.
